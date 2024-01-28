@@ -2,11 +2,11 @@
 <h3 align="">My passion for crafting digital experiences started during my time at Arizona State University, where I embarked on a journey into the world of computer science. Since then, I've honed my skills through real-world experiences.</h3>
 
 
-- 🌱 I’m currently learning **Swift, AWS,**
+- 🌱 I’m currently learning **Python, Swift, AWS. **
 
 - 👨‍💻 All of my projects are available at [https://sathwik6858.github.io/MyPortfolio/](https://sathwik6858.github.io/MyPortfolio/)
 
-- 💬 Ask me about **react,Java, C/C++**
+- 💬 Ask me about **Java, C/C+, react.+**
 
 - 📫 How to reach me **sathwikalasyam30@gmail.com**
 
