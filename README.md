@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathwik Alasyam</h1>
-<h3 align="center">My passion for crafting digital experiences started during my time at Arizona State University, where I embarked on a journey into the world of computer science. Since then, I've honed my skills through real-world experiences.</h3>
+<h3 align="">My passion for crafting digital experiences started during my time at Arizona State University, where I embarked on a journey into the world of computer science. Since then, I've honed my skills through real-world experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathwik6858&label=Profile%20views&color=0e75b6&style=flat" alt="sathwik6858" /> </p>
 
