@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a Research Aide at Arizona State University with a focus on Proposal & Negotiations. Actively seeking collaborations in software development, emphasizing UI/UX design, OOP, and algorithm optimization. Open to assistance in software development, data analysis, and technologies like AWS, Angular, React.JS, Node.JS, and Git. Expanding skills in AWS, Angular, React.JS, Node.JS, Git, and SwiftUI. Ask me about my experience, technical skills, or projects like Attendance Management System and Effort Logger Application. Fun fact: I thrive on exploring diverse technologies, from UI/UX design to algorithm optimization.<br><br><br><br><br>
+Currently a Research Aide at Arizona State University with a focus on Proposal & Negotiations. Actively seeking collaborations in software development, emphasizing UI/UX design, OOP, and algorithm optimization. Open to assistance in software development, data analysis, and technologies like AWS, Angular, React.JS, Node.JS, and Git. Expanding skills in AWS, Angular, React.JS, Node.JS, Git, and SwiftUI. Ask me about my experience, technical skills, or projects like Attendance Management System and Effort Logger Application. Fun fact: I thrive on exploring diverse technologies, from UI/UX design to algorithm optimization.
 
 
 ## 🌐 Socials:
